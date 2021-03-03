@@ -1,0 +1,1 @@
+A simple exercise to learn something about the png++ library and noise algorithms.
